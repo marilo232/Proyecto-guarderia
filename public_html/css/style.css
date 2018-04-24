@@ -241,7 +241,7 @@ a, a:hover {
 }
 
 #menu > ul > li.active.about > a, #menu > ul > li.about:hover, #menu > ul > li.about > a:hover:after {
-    background-color : #2e3947;
+    background-color : #face2f;
 }
 
 #menu > ul > li.active.team > a, #menu > ul > li.team:hover, #menu > ul > li.team > a:hover:after {
@@ -253,11 +253,11 @@ a, a:hover {
 }
 
 #menu > ul > li.active.blog > a, #menu > ul > li.blog:hover, #menu > ul > li.blog > a:hover:after {
-    background-color : #232829;
+    background-color : #3498DB;
 }
 
 #menu > ul > li.active.contact > a, #menu > ul > li.contact:hover, #menu > ul > li.contact > a:hover:after {
-    background-color : #d6d6d6;
+    background-color : #D2B4DE;
 }
 
 #menu > ul > li > a:before {
@@ -745,15 +745,15 @@ a, a:hover {
 }
 
 #aboutus-wrapper:before {
-    border-left-color : #5f7285;
+    border-left-color : #ffe175;
 }
 
 #aboutus {
-    background          : -webkit-linear-gradient(left, #2e3947 0%, #2e3947 100%), -webkit-linear-gradient(left, #2e3947 0%, #2e3947 100%);
-    background          : -moz-linear-gradient(left, #2e3947 0%, #2e3947 100%), -moz-linear-gradient(left, #2e3947 0%, #2e3947 100%);
-    background          : -o-linear-gradient(left, #2e3947 0%, #2e3947 100%), -o-linear-gradient(left, #2e3947 0%, #2e3947 100%);
-    background          : -ms-linear-gradient(left, #2e3947 0%, #2e3947 100%), -ms-linear-gradient(left, #2e3947 0%, #2e3947 100%);
-    background          : linear-gradient(left, #2e3947 0%, #2e3947 100%), linear-gradient(left, #2e3947 0%, #2e3947 100%); /* Chrome10+,Safari5.1+ */
+    background          : -webkit-linear-gradient(left, #face2f 0%, #face2f 100%), -webkit-linear-gradient(left, #face2f 0%, #face2f 100%);
+    background          : -moz-linear-gradient(left, #face2f 0%, #face2f 100%), -moz-linear-gradient(left, #face2f 0%, #face2f 100%);
+    background          : -o-linear-gradient(left, #face2f 0%, #face2f 100%), -o-linear-gradient(left, #face2f 0%, #face2f 100%);
+    background          : -ms-linear-gradient(left, #face2f 0%, #face2f 100%), -ms-linear-gradient(left, #face2f 0%, #face2f 100%);
+    background          : linear-gradient(left, #face2f 0%, #face2f 100%), linear-gradient(left, #face2f 0%, #face2f 100%); /* Chrome10+,Safari5.1+ */
     background-position : -100px 100%, 100% 100px;
     background-repeat   : no-repeat;
 }
@@ -787,29 +787,29 @@ a, a:hover {
 }
 
 #blog-wrapper:before {
-    border-right-color : #576166;
+    border-right-color : #3498DB;
 }
 
 #blog {
-    background          : -webkit-linear-gradient(left, #232829 0%, #232829 100%), -webkit-linear-gradient(left, #232829 0%, #232829 100%);
-    background          : -moz-linear-gradient(left, #232829 0%, #232829 100%), -moz-linear-gradient(left, #232829 0%, #232829 100%);
-    background          : -o-linear-gradient(left, #232829 0%, #232829 100%), -o-linear-gradient(left, #232829 0%, #232829 100%);
-    background          : -ms-linear-gradient(left, #232829 0%, #232829 100%), -ms-linear-gradient(left, #232829 0%, #232829 100%);
-    background          : linear-gradient(left, #232829 0%, #232829 100%), linear-gradient(left, #232829 0%, #232829 100%); /* Chrome10+,Safari5.1+ */
+    background          : -webkit-linear-gradient(left, #3498DB 0%, #3498DB 100%), -webkit-linear-gradient(left, #3498DB 0%, #3498DB 100%);
+    background          : -moz-linear-gradient(left, #3498DB 0%, #3498DB 100%), -moz-linear-gradient(left, #3498DB 0%, #3498DB 100%);
+    background          : -o-linear-gradient(left, #3498DB 0%, #3498DB 100%), -o-linear-gradient(left, #3498DB 0%, #3498DB 100%);
+    background          : -ms-linear-gradient(left, #3498DB 0%, #3498DB 100%), -ms-linear-gradient(left, #3498DB 0%, #3498DB 100%);
+    background          : linear-gradient(left, #3498DB 0%, #232829 100%), linear-gradient(left, #3498DB 0%, #3498DB 100%); /* Chrome10+,Safari5.1+ */
     background-position : 100px 100%, 100% 100px;
     background-repeat   : no-repeat;
 }
 
 #contact-wrapper:before {
-    border-left-color : #ededed;
+    border-left-color : #D2B4DE;
 }
 
 #contact {
-    background          : -webkit-linear-gradient(left, #d6d6d6 0%, #d6d6d6 100%), -webkit-linear-gradient(left, #d6d6d6 0%, #d6d6d6 100%);
-    background          : -moz-linear-gradient(left, #d6d6d6 0%, #d6d6d6 100%), -moz-linear-gradient(left, #d6d6d6 0%, #d6d6d6 100%);
-    background          : -o-linear-gradient(left, #d6d6d6 0%, #d6d6d6 100%), -o-linear-gradient(left, #d6d6d6 0%, #d6d6d6 100%);
-    background          : -ms-linear-gradient(left, #d6d6d6 0%, #d6d6d6 100%), -ms-linear-gradient(left, #d6d6d6 0%, #d6d6d6 100%);
-    background          : linear-gradient(left, #d6d6d6 0%, #d6d6d6 100%), linear-gradient(left, #d6d6d6 0%, #d6d6d6 100%); /* Chrome10+,Safari5.1+ */
+    background          : -webkit-linear-gradient(left, #D2B4DE 0%, #D2B4DE 100%), -webkit-linear-gradient(left, #D2B4DE 0%, #D2B4DE 100%);
+    background          : -moz-linear-gradient(left, #D2B4DE 0%, #D2B4DE 100%), -moz-linear-gradient(left, #D2B4DE 0%, #D2B4DE 100%);
+    background          : -o-linear-gradient(left, #D2B4DE 0%, #D2B4DE 100%), -o-linear-gradient(left, #D2B4DE 0%, #D2B4DE 100%);
+    background          : -ms-linear-gradient(left, #D2B4DE 0%, #D2B4DE 100%), -ms-linear-gradient(left, #D2B4DE 0%, #D2B4DE 100%);
+    background          : linear-gradient(left, #D2B4DE 0%, #D2B4DE 100%), linear-gradient(left, #D2B4DE 0%, #D2B4DE  100%); /* Chrome10+,Safari5.1+ */
     background-position : -100px 100%, 100% 100px;
     background-repeat   : no-repeat;
 }
@@ -1500,7 +1500,7 @@ a#to-top {
 }
 
 .contact-info {
-    background-color : #24282B;
+    background-color : #4A235A;
     padding          : 30px;
     font-size        : 18px;
     line-height      : 30px;
