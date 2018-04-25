@@ -229,7 +229,7 @@ a, a:hover {
 }
 
 #menu > ul > li.active.home > a, #menu > ul > li.home:hover, #menu > ul > li.home > a:hover:after {
-    background-color : #eb1c23;
+    background-color : #7d3c98;
 }
 
 #menu > ul > li.active.service > a, #menu > ul > li.service:hover, #menu > ul > li.service > a:hover:after {
