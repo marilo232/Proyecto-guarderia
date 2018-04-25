@@ -910,7 +910,7 @@ a#to-top {
     margin              : 0px;
 
     background          : -webkit-linear-gradient(right, #D93921 0%, #D93921 100%), -webkit-linear-gradient(right, #D93921 0%, #D93921 100%);
-    background          : -moz-linear-gradient(right, rgb(175, 211, 47) 0%, #D93921 100%), -moz-linear-gradient(right, #D93921 0%, #D93921 100%);
+    background          : -moz-linear-gradient(right, #D93921 0%, #D93921 100%), -moz-linear-gradient(right, #D93921 0%, #D93921 100%);
     background          : -o-linear-gradient(right, #D93921 0%, #D93921 100%), -o-linear-gradient(right, #D93921 0%, #D93921 100%);
     background          : -ms-linear-gradient(right, #D93921 0%, #D93921 100%), -ms-linear-gradient(right, #D93921 0%, #D93921 100%);
     background          : linear-gradient(right, #D93921 0%, #D93921 100%), linear-gradient(right, #D93921 0%, #D93921 100%);
