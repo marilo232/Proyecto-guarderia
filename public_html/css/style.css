@@ -721,11 +721,11 @@ a, a:hover {
 }
 
 #services {
-    background          : -webkit-linear-gradient(left, #e8432a 0%, #e8432a 100%), -webkit-linear-gradient(left, #e8432a 0%, #e8432a 100%);
-    background          : -moz-linear-gradient(left, #e8432a 0%, #e8432a 100%), -moz-linear-gradient(left, #e8432a 0%, #e8432a 100%);
-    background          : -o-linear-gradient(left, #e8432a 0%, #e8432a 100%), -o-linear-gradient(left, #e8432a 0%, #e8432a 100%);
-    background          : -ms-linear-gradient(left, #e8432a 0%, #e8432a 100%), -ms-linear-gradient(left, #e8432a 0%, #e8432a 100%);
-    background          : linear-gradient(left, #e8432a 0%, #e8432a 100%), linear-gradient(left, #e8432a 0%, #e8432a 100%); /* Chrome10+,Safari5.1+ */
+    background          : -webkit-linear-gradient(left, #ef988a 0%, #ef988a 100%), -webkit-linear-gradient(left, #ef988a 0%, #ef988a 100%);
+    background          : -moz-linear-gradient(left, #ef988a 0%, #ef988a 100%), -moz-linear-gradient(left, #ef988a 0%, #ef988a 100%);
+    background          : -o-linear-gradient(left, #ef988a 0%, #ef988a 100%), -o-linear-gradient(left, #ef988a 0%, #ef988a 100%);
+    background          : -ms-linear-gradient(left,#ef988a 0%, #ef988a 100%), -ms-linear-gradient(left, #ef988a 0%, #ef988a 100%);
+    background          : linear-gradient(left, #ef988a 0%, #ef988a 100%), linear-gradient(left, #ef988a 0%, #ef988a 100%); /* Chrome10+,Safari5.1+ */
     background-position : -100px 100%, 100% 100px;
     background-repeat   : no-repeat;
 }
