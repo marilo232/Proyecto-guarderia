@@ -430,7 +430,7 @@ a, a:hover {
     opacity    : .7;
 }
 
-.video_background {
+#video_background {
     position   : absolute;
     bottom     : 0px;
     right      : 0px;
