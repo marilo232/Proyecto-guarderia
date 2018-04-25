@@ -909,7 +909,7 @@ a#to-top {
     padding             : 20px;
     margin              : 0px;
 
-    background          : -webkit-linear-gradient(right, #D93921 0%, #D93921 100%), -webkit-linear-gradient(right, #D93921 0%, #D93921 100%);
+    background          : -webkit-linear-gradient(right, rgb(137, 209, 122) 0%, rgb(137, 209, 122) 100%), -webkit-linear-gradient(right, rgb(137, 209, 122)0%, rgb(137, 209, 122)100%);
     background          : -moz-linear-gradient(right, #D93921 0%, #D93921 100%), -moz-linear-gradient(right, #D93921 0%, #D93921 100%);
     background          : -o-linear-gradient(right, #D93921 0%, #D93921 100%), -o-linear-gradient(right, #D93921 0%, #D93921 100%);
     background          : -ms-linear-gradient(right, #D93921 0%, #D93921 100%), -ms-linear-gradient(right, #D93921 0%, #D93921 100%);
