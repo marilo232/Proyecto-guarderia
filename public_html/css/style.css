@@ -233,7 +233,7 @@ a, a:hover {
 }
 
 #menu > ul > li.active.service > a, #menu > ul > li.service:hover, #menu > ul > li.service > a:hover:after {
-    background-color : #ef988a;
+    background-color : #eb4b32;
 }
 
 #menu > ul > li.active.portfolio > a, #menu > ul > li.portfolio:hover, #menu > ul > li.portfolio > a:hover:after {
@@ -921,7 +921,16 @@ a#to-top {
     text-align          : center;
     display             : block;
 }
-
+#servicescaja{
+padding: 0%;
+margin: 20px;
+display: flex;
+}
+.servicios{
+    width: 100%;
+    height: 400px;
+    margin: 10px;
+}
 .service-box h3 {
     text-transform : none;
     font-size      : 18px;
