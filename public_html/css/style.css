@@ -35,7 +35,7 @@ body {
 h1, h2, h3, h4, h5 {
     font-family    : "Lato", sans-serif;
     color          : #fff;©
-    text-transform : uppercase;
+    text-transform: uppercase;
     margin         : 0;
     padding        : 0;
 }
@@ -209,7 +209,7 @@ a, a:hover {
     -o-transition           : 0.5s;
     -ms-transition          : 0.5s;
     transition              : 0.5s;
-    -webkit-perspective     : 800;
+    -webkit-perspective: 800;
 }
 
 #menu > ul > li.active {
@@ -717,15 +717,15 @@ a, a:hover {
 
 /** Basic styling */
 #services-wrapper:before {
-    border-left-color : #f27d68;
+    border-left-color : #eb7260;
 }
 
 #services {
     background          : -webkit-linear-gradient(left, #eb4b32 0%, #eb4b32 100%), -webkit-linear-gradient(left, #eb4b32 0%, #eb4b32 100%);
-    background          : -moz-linear-gradient(left, #ef988a 0%, #ef988a 100%), -moz-linear-gradient(left, #ef988a 0%, #ef988a 100%);
-    background          : -o-linear-gradient(left, #ef988a 0%, #ef988a 100%), -o-linear-gradient(left, #ef988a 0%, #ef988a 100%);
-    background          : -ms-linear-gradient(left,#ef988a 0%, #ef988a 100%), -ms-linear-gradient(left, #ef988a 0%, #ef988a 100%);
-    background          : linear-gradient(left, #ef988a 0%, #ef988a 100%), linear-gradient(left, #ef988a 0%, #ef988a 100%); /* Chrome10+,Safari5.1+ */
+    background          : -moz-linear-gradient(left, #eb4b32 0%, #eb4b32 100%), -moz-linear-gradient(left, #eb4b32 0%, #eb4b32 100%);
+    background          : -o-linear-gradient(left, #eb4b32 0%, #eb4b32 100%), -o-linear-gradient(left, #eb4b32 0%, #eb4b32 100%);
+    background          : -ms-linear-gradient(left,#eb4b32 0%, #eb4b32 100%), -ms-linear-gradient(left, #eb4b32 0%, #eb4b32 100%);
+    background          : linear-gradient(left, #eb4b32 0%, #eb4b32 100%), linear-gradient(left, #eb4b32 0%, #eb4b32 100%); /* Chrome10+,Safari5.1+ */
     background-position : -100px 100%, 100% 100px;
     background-repeat   : no-repeat;
 }
