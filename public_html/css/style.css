@@ -721,7 +721,7 @@ a, a:hover {
 }
 
 #services {
-    background          : -webkit-linear-gradient(left, #ef988a 0%, #ef988a 100%), -webkit-linear-gradient(left, #ef988a 0%, #ef988a 100%);
+    background          : -webkit-linear-gradient(left, #eb4b32 0%, #eb4b32 100%), -webkit-linear-gradient(left, #eb4b32 0%, #eb4b32 100%);
     background          : -moz-linear-gradient(left, #ef988a 0%, #ef988a 100%), -moz-linear-gradient(left, #ef988a 0%, #ef988a 100%);
     background          : -o-linear-gradient(left, #ef988a 0%, #ef988a 100%), -o-linear-gradient(left, #ef988a 0%, #ef988a 100%);
     background          : -ms-linear-gradient(left,#ef988a 0%, #ef988a 100%), -ms-linear-gradient(left, #ef988a 0%, #ef988a 100%);
@@ -905,7 +905,7 @@ a#to-top {
 }
 
 .service-box {
-    height              : 300px;
+    height              : 400px;
     padding             : 20px;
     margin              : 0px;
 
